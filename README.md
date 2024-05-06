@@ -1,10 +1,8 @@
-# Flask Basic With Token and SQLAlchemy
+# ChatGPT Inference Relay
 
 Created by Juan Ignacio De Nicola
 
-Useful if you have to mock endpoints, or test a token authentication in your project.
-
-This template includes basic database manipulation. 
+This project is intended to handle sanitization and authentication to any OpenAPI server you choose.
 
 ## Usage
 
